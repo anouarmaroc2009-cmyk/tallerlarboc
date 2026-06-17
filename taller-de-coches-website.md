@@ -1,4 +1,4 @@
-# Taller de Coches — Website Strategy & Content Guide
+# tallerlarboc — Website Strategy & Content Guide
 
 ---
 
@@ -247,7 +247,7 @@ Scan of a handwritten note. Text:
 "Gracias por confiar en nosotros. — Yusef"
 
 [FOOTER]
-Taller de Coches — Santa Lucía, 1 — Arbós (Alt Penedès)
+tallerlarboc — Santa Lucía, 1 — Arbós (Alt Penedès)
 Tel: [number] — WhatsApp: [number]
 Lunes a viernes: 8:30 – 19:00 | Sábados: 9:00 – 14:00
 ```

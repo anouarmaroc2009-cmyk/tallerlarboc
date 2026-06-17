@@ -1,4 +1,4 @@
-# Taller de Coches — Arbós
+# tallerlarboc
 
 Web estática del taller mecánico en Santa Lucía, 1 — Arbós (Alt Penedès).
 
