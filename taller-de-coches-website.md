@@ -176,7 +176,7 @@ No pastels. No corporate blues (IBM look). The near-black + red + leather tone f
 No generated images. No generic "mechanic smiling at camera" stock photo. The shop floor, the tools, the team, the cars. Grainy is fine. Dark is fine. Real is the only rule.
 
 ### 2. Name the mechanics
-> "Habla con Yusef o Karim — ellos llevan cada coche como si fuera suyo."
+> "Habla con Hicham o Karim — ellos llevan cada coche como si fuera suyo."
 
 Adding real first names to the copy creates instant trust. If there are only 2-3 mechanics, list them.
 
@@ -199,7 +199,7 @@ This kind of specific, real story is the most powerful copy you can write. No AI
 
 ### 7. Handwritten-style note (optional)
 A scan of an actual handwritten note from the owner:
-> "Gracias por confiar en nosotros. — Yusef"
+> "Gracias por confiar en nosotros. — Hicham"
 
 Placed at the bottom of the homepage. Pixelated, crooked, perfect.
 
@@ -244,7 +244,7 @@ Mecánica / Electricidad / Chapa y pintura / Neumáticos / Diagnóstico
 
 [HUMAN NOTE]
 Scan of a handwritten note. Text:
-"Gracias por confiar en nosotros. — Yusef"
+"Gracias por confiar en nosotros. — Hicham"
 
 [FOOTER]
 tallerlarboc — Santa Lucía, 1 — Arbós (Alt Penedès)
