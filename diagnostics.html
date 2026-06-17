@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diagnóstico — Taller de Coches en Arbós</title>
+  <meta name="description" content="Diagnóstico avanzado multimarca en Arbós. Escáner OBD2, osciloscopio, lectura de centralita en tiempo real. Sin adivinar.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700;900&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">Taller<span>De</span>Coches</a>
+    <button class="hamburger" aria-label="Menú" onclick="document.querySelector('.main-nav').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav">
+      <a href="/">Inicio</a>
+      <a href="services.html">Servicios</a>
+      <a href="diagnostics.html" class="active">Diagnóstico</a>
+      <a href="gallery.html">Galería</a>
+      <a href="contact.html">Contacto</a>
+      <a href="tel:+34..." class="cta-btn">Llama ahora</a>
+    </nav>
+  </div>
+</header>
+
+<div class="page-header">
+  <div class="container">
+    <p class="section-label">Diagnóstico</p>
+    <h1>No adivinamos. Diagnosticamos.</h1>
+    <p>Antes de cambiar una sola pieza, sabemos exactamente qué está pasando.</p>
+  </div>
+</div>
+
+<section>
+  <div class="container">
+    <div class="diag-grid">
+      <div>
+        <p style="margin-bottom:20px; color:var(--text-secondary); font-size:1.05rem; line-height:1.7;">
+          Tenemos un equipo de diagnosis multimarca que lee la centralita de tu coche como si fuera un libro abierto. Vemos los códigos de error en directo, comprobamos sensores, presiones, temperaturas — todo antes de tocar una sola pieza.
+        </p>
+        <ul class="diag-list">
+          <li>Lectura OBD2 avanzada (multimarca: BMW, Audi, SEAT, Renault, Toyota, Mercedes, etc.)</li>
+          <li>Comprobación de sensores en tiempo real (ABS, airbag, inyección, turbocompresor)</li>
+          <li>Osciloscopio automotriz para fallos intermitentes</li>
+          <li>Sin recambios inútiles — solo reparamos lo que está roto</li>
+        </ul>
+        <div class="diag-quote">
+          Algunos talleres cambian piezas hasta que el problema desaparece. Nosotros preferimos saber qué está pasando antes de meter mano. Te ahorra tiempo y dinero.
+        </div>
+      </div>
+      <div>
+        <div class="photo-placeholder" style="height:350px;">
+          FOTO REAL — Pantalla de escáner con códigos de error visibles
+        </div>
+        <div class="photo-placeholder" style="height:200px; margin-top:16px;">
+          FOTO REAL — Mecánico conectando el equipo de diagnosis
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--bg-secondary);">
+  <div class="container">
+    <p class="section-label">Caso real</p>
+    <h2 class="section-title">No todo es lo que parece</h2>
+    <p class="section-sub">La semana pasada entró un Clío que llevaba tres meses en otro taller. Le habían cambiado la batería, el alternador y el motor de arranque. Nosotros lo conectamos al diagnóstico y en 10 minutos vimos que era un sensor de masa de aire. Se fue en una hora.</p>
+    <p style="color:var(--text-secondary);">Esto no es un caso raro. Pasa todos los días. Por eso diagnosticamos antes de reparar.</p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4>Taller de Coches</h4>
+        <p>Santa Lucía, 1 — Arbós (Alt Penedès)</p>
+        <p>Tel: <a href="tel:+34...">+34 ...</a></p>
+        <p>WhatsApp: <a href="https://wa.me/34...">+34 ...</a></p>
+      </div>
+      <div class="footer-col">
+        <h4>Horario</h4>
+        <p>Lunes a viernes: 8:30 – 19:00</p>
+        <p>Sábados: 9:00 – 14:00</p>
+      </div>
+      <div class="footer-col">
+        <h4>Enlaces</h4>
+        <a href="/">Inicio</a>
+        <a href="services.html">Servicios</a>
+        <a href="gallery.html">Galería</a>
+        <a href="contact.html">Contacto</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      &copy; 2026 Taller de Coches — Arbós, Barcelona
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
